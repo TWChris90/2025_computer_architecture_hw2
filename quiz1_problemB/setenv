@@ -1,0 +1,1 @@
+export PATH=/home/chris0/riscv-none-elf-gcc/rv32emu/rv32emu/tests/system/quiz_b/bin:$PATH
